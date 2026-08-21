@@ -1,10 +1,9 @@
 """
 hello.py
 ====================================
-This is an example file with correct docstring examples
-
-| Author: Seth McNeill
-| Date: 2025 September 07
+This is the first project of the CSCI 310 class.
+| Author: Adrien Diaz
+| Date: 2026 August 21
 """
 
 class SayHello:
